@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Please enter your name and hit return.");
 		String name = in.nextLine();
 		System.out.println("Hello " + name);
+		System.out.println("Hello " + name);
 	}
 }
